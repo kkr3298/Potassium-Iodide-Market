@@ -3,7 +3,7 @@
 
 ## Market Overview
 
-The global Potassium Iodide (KI) industry was valued at USD 974.6 million in 2023 and is projected to grow at a compound annual growth rate (CAGR) of 7.5% from 2024 to 2034. This trajectory is expected to drive the market to approximately USD 2.2 billion by 2034. Growth is driven by increasing demand in pharmaceutical, nutrition, and radiation protection sectors.
+The global [Potassium Iodide (KI) industry] (https://www.transparencymarketresearch.com/sample/sample.php?flag=S&rep_id=14282) was valued at USD 974.6 million in 2023 and is projected to grow at a compound annual growth rate (CAGR) of 7.5% from 2024 to 2034. This trajectory is expected to drive the market to approximately USD 2.2 billion by 2034. Growth is driven by increasing demand in pharmaceutical, nutrition, and radiation protection sectors.
 
 ## Advantages of Potassium Iodide
 
@@ -110,14 +110,6 @@ Continued growth expected driven by medical, nutritional, and industrial demand.
 - **2024:** Iofina and GODO SHIGEN launched eco-friendly and pharma-grade KI
 - **2023:** Merck and Nippoh launched enhanced contrast and supplement formulas
 - **April 2023:** KI tablet distribution near U.S. nuclear plants
-
-## Resources
-- [Potassium Iodide Sample Report](https://www.transparencymarketresearch.com/sample/sample.php?flag=S&rep_id=14282)
-- [Premium Report Purchase](https://www.transparencymarketresearch.com/checkout.php?rep_id=14282&ltype=S)
-- Related Research:
-  - [Carboxylic Acid Market](https://www.transparencymarketresearch.com/carboxylic-acids-market.html)
-  - [Dimethyl Carbonate Market](https://www.transparencymarketresearch.com/dimethyl-carbonate-market.html)
-
 ## Contact
 
 **Transparency Market Research Inc.**  
